@@ -1,9 +1,0 @@
-.itemContainer {
-  display: flex;
-  padding: 10px;
-  margin-top: 50px;
-  box-shadow: 0 4px 6px rgb(0, 0, 0, 0.1);
-}
-.nameContainer {
-  margin-left: 50px;
-}
